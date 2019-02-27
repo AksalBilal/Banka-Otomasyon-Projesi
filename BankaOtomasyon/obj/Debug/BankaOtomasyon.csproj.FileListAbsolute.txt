@@ -1,0 +1,151 @@
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\UMUT CAN\source\repos\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+G:\BankaOtomasyon-1\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+G:\BankaOtomasyon-1\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+G:\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\Faruk\Desktop\BankaOtomasyon-1\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmGelirGider.resources
+G:\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+G:\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+G:\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmGelirGider.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+E:\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+E:\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+E:\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmGelirGider.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapSil.resources
+E:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmLog.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapSil.resources
+G:\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmLog.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmGelirGider.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapSil.resources
+C:\Users\Faruk\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmLog.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmGelirGider.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapSil.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmLog.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\UMUT CAN\Desktop\Yeni klasör (2)\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmGelirGider.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapSil.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmLog.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\ABRA\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Form1.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmGelirGider.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHavale.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapAc.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmHesapSil.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmLog.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmMusteriEkle.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaCekme.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.frmParaYatırma.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.Cache
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+D:\ÖDEVLER\NYP Projesi\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojAssemblyReference.cache
